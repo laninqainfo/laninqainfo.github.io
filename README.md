@@ -1,2 +1,2 @@
 # laninqainfo.github.io
-<h1>hellow</h1>
+<h1>Hello World</h1>
